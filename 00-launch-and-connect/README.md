@@ -36,11 +36,11 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 `Step 2:` Open Putty Keygen to generate the Private Key file as shown in image:
 
-<img src="https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-1.png?raw=true" alt="image" style="width:500px;height:auto;">
-<img src="https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-2.png?raw=true" alt="image" style="width:500px;height:auto;">
-<img src="https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-3.png?raw=true" alt="image" style="width:500px;height:auto;">
-<img src="https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-4.png?raw=true" alt="image" style="width:500px;height:auto;">
-<img src="https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-5.png?raw=true" alt="image" style="width:500px;height:auto;">
+<img src="https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-1.png?raw=true" alt="image" style="width:60%;height:auto;">
+<img src="https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-2.png?raw=true" alt="image" style="width:60%;height:auto;">
+<img src="https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-3.png?raw=true" alt="image" style="width:60%;height:auto;">
+<img src="https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-4.png?raw=true" alt="image" style="width:60%;height:auto;">
+<img src="https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-5.png?raw=true" alt="image" style="width:60%;height:auto;">
 
 `Step 3:` Enter username and IP of your VM instance:
 
