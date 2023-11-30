@@ -9,12 +9,14 @@ chmod 400 codeops.pem
 `Step 2:` Enter your username and IP address with PEM key file path
 
 ```shell
-ssh -i "codeopss.pem" ec2-user@124.15.184.36
+ssh -i "codeops.pem" ec2-user@124.15.184.36
 ```
 
 ## Connect through windows:
 
 ### Method 1:
+
+---
 
 Using Powershell
 
@@ -25,6 +27,8 @@ ssh -i "codeopss.pem" ec2-user@124.15.184.36
 ```
 
 ### Method 2:
+
+---
 
 Using Putty
 
