@@ -36,7 +36,11 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 `Step 2:` Open Putty Keygen to generate the Private Key file as shown in image:
 
-![alt text](https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-1.png?raw=true)
+![alt text](https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-1.png?raw=true=300x200)
+![alt text](https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-2.png?raw=true)
+![alt text](https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-3.png?raw=true)
+![alt text](https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-4.png?raw=true)
+![alt text](https://github.com/i-adarsh/aws/blob/main/00-launch-and-connect/key-5.png?raw=true)
 
 `Step 3:` Enter username and IP of your VM instance:
 
