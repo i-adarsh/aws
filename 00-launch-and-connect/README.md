@@ -16,8 +16,6 @@ ssh -i "codeops.pem" ec2-user@124.15.184.36
 
 ### Method 1:
 
----
-
 Using Powershell
 
 `Step 1:` Enter your username and IP address with PEM key file path in powershell
@@ -27,8 +25,6 @@ ssh -i "codeopss.pem" ec2-user@124.15.184.36
 ```
 
 ### Method 2:
-
----
 
 Using Putty
 
